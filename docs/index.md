@@ -1,7 +1,7 @@
 
 Nat's personal memex
 
-## Map of Content[¶](https://shawngraham.github.io/hist1900c-demo-memex/#map-of-content "Permanent link")
+## Map of Content[¶](https://natmeng.github.io/Obsedian/#map-of-content "Permanent link")
 
 ## Sources[¶](https://shawngraham.github.io/hist1900c-demo-memex/#sources "Permanent link")
 
