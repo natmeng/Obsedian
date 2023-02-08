@@ -3,7 +3,7 @@ Nat's personal memex
 
 ## Map of Content[¶](https://natmeng.github.io/Obsedian/#map-of-content "Permanent link")
 
-## Sources[¶](https://shawngraham.github.io/hist1900c-demo-memex/#sources "Permanent link")
+## Sources[¶](https://natmeng.github.io/Obsedian/#sources "Permanent link")
 
 -   [@bushvannevarWeMayThink1945](https://shawngraham.github.io/hist1900c-demo-memex/sources/%40bushvannevarWeMayThink1945/)
 -   [@grahamFleshingOutBones2018](https://shawngraham.github.io/hist1900c-demo-memex/sources/%40grahamFleshingOutBones2018/)
@@ -11,7 +11,7 @@ Nat's personal memex
 -   [@hamilakisArchaeologyAssemblage2017](https://shawngraham.github.io/hist1900c-demo-memex/sources/%40hamilakisArchaeologyAssemblage2017/)
 -   [@peacockWestgateOxfordPop2018](https://shawngraham.github.io/hist1900c-demo-memex/sources/%40peacockWestgateOxfordPop2018/)
 
-## Thoughts[¶](https://shawngraham.github.io/hist1900c-demo-memex/#thoughts "Permanent link")
+## Thoughts[¶](https://natmeng.github.io/Obsedian/#thoughts "Permanent link")
 
 ### 'Gender'[¶](https://shawngraham.github.io/hist1900c-demo-memex/#gender "Permanent link")
 
