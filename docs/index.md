@@ -5,11 +5,11 @@ Nat's personal memex
 
 ## Sources[¶](https://natmeng.github.io/Obsedian/#sources "Permanent link")
 
--   [@bushvannevarWeMayThink1945](https://shawngraham.github.io/hist1900c-demo-memex/sources/%40bushvannevarWeMayThink1945/)
--   [@grahamFleshingOutBones2018](https://shawngraham.github.io/hist1900c-demo-memex/sources/%40grahamFleshingOutBones2018/)
--   [@rubergLivestreamingBedroomPerforming2021](https://shawngraham.github.io/hist1900c-demo-memex/sources/%40rubergLivestreamingBedroomPerforming2021/)
--   [@hamilakisArchaeologyAssemblage2017](https://shawngraham.github.io/hist1900c-demo-memex/sources/%40hamilakisArchaeologyAssemblage2017/)
--   [@peacockWestgateOxfordPop2018](https://shawngraham.github.io/hist1900c-demo-memex/sources/%40peacockWestgateOxfordPop2018/)
+-   [The Enigma Machine](https://natmeng.github.io/Obsedian/sources/Enigma Machine/)
+-   [Encryption](https://natmeng.github.io/Obsedian/sources/Encryption/)
+-   [Women in Tech](https://natmeng.github.io/Obsedian/sources/Women In Tech/)
+-   [First Computer](https://natmeng.github.io/Obsedian/sources/The First Computer/)
+-   [The Internet](https://natmeng.github.io/Obsedian/sources/Enigma Machine/The Internet)
 
 ## Thoughts[¶](https://natmeng.github.io/Obsedian/#thoughts "Permanent link")
 
