@@ -9,7 +9,7 @@ Nat's personal memex
 -   [Encryption](https://natmeng.github.io/Obsedian/sources/Encryption/)
 -   [Women in Tech](https://natmeng.github.io/Obsedian/sources/Women_In_Tech/)
 -   [First Computer](https://natmeng.github.io/Obsedian/sources/The_First_Computer/)
--   [The Internet](https://natmeng.github.io/Obsedian/sources/Enigma Machine/The_Internet)
+-   [The Internet](https://natmeng.github.io/Obsedian/sources/Enigma Machine/The_Internet/)
 
 ## Thoughts[¶](https://natmeng.github.io/Obsedian/#thoughts "Permanent link")
 
